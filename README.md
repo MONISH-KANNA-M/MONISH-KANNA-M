@@ -1,8 +1,14 @@
 
 
-<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+<p>
+  <img 
+    src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" 
+    width="300px" 
+    align="right" 
+    style="margin-left: 20px;"
+  />
 
-## About Me
+
 
 I am a Full Stack Developer with strong expertise in the MERN stack, experienced in building scalable, high-performance web applications. I have hands-on knowledge of Docker, Kubernetes, and cloud architecture, enabling me to design, deploy, and manage containerized applications efficiently. I am passionate about developing clean, maintainable code and architecting end-to-end solutions that are reliable, scalable, and production-ready.
 

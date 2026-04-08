@@ -8,12 +8,11 @@
     style="margin-left: 20px; margin-bottom: 10px;"
   />
 
-I am a Full Stack Developer with strong expertise in the MERN stack, experienced in building scalable, high-performance web applications. I have hands-on knowledge of Docker, Kubernetes, and cloud architecture, enabling me to design, deploy, and manage containerized applications efficiently.
+I am a Full Stack Developer with strong expertise in the MERN stack, experienced in building scalable, high-performance web applications. I also work on AI-driven systems and data-centric applications, combining backend engineering with intelligent solutions.
 
-I am passionate about developing clean, maintainable code and architecting end-to-end solutions that are reliable, scalable, and production-ready.
+I am passionate about developing clean, maintainable code and building end-to-end systems that are scalable, efficient, and production-ready.
 
 </p>
-
 
 ---
 
@@ -38,10 +37,10 @@ I am passionate about developing clean, maintainable code and architecting end-t
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="30"/>
 </p>
 
-### 🚀 DevOps
+### 🧠 Data Science & AI
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="30"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="30"/>
 </p>
 
 ### 🛠 Tools
@@ -54,35 +53,42 @@ I am passionate about developing clean, maintainable code and architecting end-t
 
 ---
 
-## 🔗 Connect With Me
+## 🔗 Connect & Coding Profiles
 
 <p>
   <a href="https://mk-portfolio-mcp8.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badg"/>
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge"/>
   </a>
-  <a href="www.linkedin.com/in/monish-kanna-m">
+  <a href="https://www.linkedin.com/in/monish-kanna-m">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge"/>
   </a>
-  
+  <a href="https://leetcode.com/u/MONISH_KANNA_M_2442/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge"/>
+  </a>
 </p>
 
 ---
 
 ## 🔹 What I Work On
 
-- **Software Development** – Backend engineering, APIs, and system design  
-- **Machine Learning & AI** – NLP, Computer Vision, Generative AI  
-- **Cloud & DevOps** – MySQL, LangChain, TensorFlow  
-- **Exploring** – New frameworks, architectures, AI-powered apps  
+- 💻 **Software Development** – Backend engineering, APIs, system design, Frontend development  
+- 🧠 **Machine Learning & Data Science** – NLP, Computer Vision, Generative AI  
+- 🤖 **AI / Python Stack** – LangChain, TensorFlow, LangGraph  
+- 📊 **Data Science & Analytics** – Power BI, Excel, Python, SQL  
+- 🚀 **Exploring** – New frameworks, architectures, AI-powered applications  
 
 ---
 
 ## 📌 Projects
 
-- **Smart Email Reply Assistant** – AI-based Gmail response generator  
-- **SQL Chat** – Natural language to SQL chatbot  
-- **ML Model Explorer** – Dataset insights & model evaluation  
-- **AquaSense** – Water quality analysis using ML  
+- 🔹 **TURFEASE** – Sports Turf Booking Platform  
+- 🔹 **HIREHUB** – Hiring Management Platform  
+- 🔹 **FLEXIVERSE** – Intelligent Learning Platform  
+- 🔹 **Pickle E-commerce Website**  
+- 🔹 **Forever E-commerce Website**  
+- 🔹 **AcademAI** – AI Learning Assistant Platform  
+- 🔹 **CardioXpulse** – Heart Attack Prediction System  
+- 🔹 **SkinScan** – Skin Disease Prediction System  
 
 ---
 
@@ -90,8 +96,8 @@ I am passionate about developing clean, maintainable code and architecting end-t
 
 **Frontend:** React · Tailwind · Vite  
 **Backend:** Node.js · Express  
-**Database:** PostgreSQL · Redis  
-**DevOps:** Docker · GitHub Actions  
+**Database:** PostgreSQL · Redis · MongoDB  
+**AI/ML:** TensorFlow · LangChain  
 
 ---
 

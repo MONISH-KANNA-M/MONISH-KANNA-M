@@ -14,6 +14,7 @@ I am passionate about developing clean, maintainable code and architecting end-t
 
 </p>
 
+
 ---
 
 ## 🚀 My Skills
@@ -56,15 +57,13 @@ I am passionate about developing clean, maintainable code and architecting end-t
 ## 🔗 Connect With Me
 
 <p>
-  <a href="https://my-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge"/>
+  <a href="https://mk-portfolio-mcp8.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badg"/>
   </a>
-  <a href="https://linkedin.com/in/myprofile">
+  <a href="www.linkedin.com/in/monish-kanna-m">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge"/>
   </a>
-  <a href="https://twitter.com/myhandle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge"/>
-  </a>
+  
 </p>
 
 ---

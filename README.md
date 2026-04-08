@@ -1,39 +1,36 @@
-<div align="center">
-
-# 👨‍💻 Software Developer & AI Enthusiast
-### 👋 I'm [Your Name]
-
-I'm a passionate [Your Role] building [what you build]. My focus is on [your specialties].
 
 
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 
-## 🛠️ My Toolkit
+## About Me
+
+I am a Full Stack Developer with strong expertise in the MERN stack, experienced in building scalable, high-performance web applications. I have hands-on knowledge of Docker, Kubernetes, and cloud architecture, enabling me to design, deploy, and manage containerized applications efficiently. I am passionate about developing clean, maintainable code and architecting end-to-end solutions that are reliable, scalable, and production-ready.
+
+
+
+
+## My Skills
 
 **Languages:**
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="28" height="28" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="28" height="28" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="28" height="28" style="margin: 4px;" />
 </p>
 
 **Frameworks:**
 <p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="28" height="28" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="28" height="28" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="28" height="28" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="28" height="28" style="margin: 4px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="28" height="28" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="28" height="28" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="28" height="28" style="margin: 4px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="28" height="28" style="margin: 4px;" />
 </p>
 
 **DevOps:**
 <p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="28" height="28" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="28" height="28" style="margin: 4px;" />
 </p>
 
-**Design:**
+**Tools:**
 <p align="left">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" alt="Adobe XD" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="28" height="28" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="28" height="28" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="28" height="28" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="28" height="28" style="margin: 4px;" />
 </p>
 
 
@@ -45,14 +42,22 @@ I'm a passionate [Your Role] building [what you build]. My focus is on [your spe
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge)](https://linkedin.com/in/myprofile)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge)](https://twitter.com/myhandle)
 
+## 🔹 What I Work On
+
+* **Software Development** – Backend engineering, APIs, and system design.
+* **Machine Learning & AI** – NLP, Computer Vision, and Generative AI.
+* **Cloud & DevOps** – Working with **MySQL, LangChain, and TensorFlow**.
+* **Exploring** – New frameworks, architectures, and AI-powered applications.
 
 
-## Features I Implemented
+## 🔗 Projects
 
-- **Feature 1**: How I solved [problem] with this
-- **Feature 2**: My approach to [specific functionality]
-- **Performance**: Optimizations I added for speed
-- **Accessibility**: Improvements I made for inclusivity
+* **[Smart Email Reply Assistant](https://github.com/Soumya-Kushwaha/smart-email-reply-assistant)** – A productivity tool that seamlessly integrates with Gmail to generate intelligent email responses.
+* **[SQL Chat](https://github.com/Soumya-Kushwaha/SQL-Chat)** – A chatbot that translates natural language queries into SQL commands.
+* **[ML Model Explorer](https://github.com/Soumya-Kushwaha/ML-Model-Explorer)** – A tool for dataset insights and model evaluation.
+* **[AquaSense](https://github.com/Soumya-Kushwaha/AquaSense)** – Water quality analysis using ML classification models.
+
+
 
 
 
@@ -70,6 +75,14 @@ PostgreSQL · Redis
 **DevOps:**  
 Docker · GitHub Actions · My CI/CD pipeline
 
-**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 
-</div>
+## GitHub Stats
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+
+
+

@@ -85,7 +85,8 @@ I am passionate about developing clean, maintainable code and building end-to-en
 - 🔹 **HIREHUB** – Hiring Management Platform  
 - 🔹 **FLEXIVERSE** – Intelligent Learning Platform  
 - 🔹 **Pickle E-commerce Website**  
-- 🔹 **Forever E-commerce Website**  
+- 🔹 **Forever E-commerce Website**
+- 🔹 **DMS** – Document Managment System
 - 🔹 **AcademAI** – AI Learning Assistant Platform  
 - 🔹 **CardioXpulse** – Heart Attack Prediction System  
 - 🔹 **SkinScan** – Skin Disease Prediction System  

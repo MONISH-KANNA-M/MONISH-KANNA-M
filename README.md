@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9F5FFF&height=200&section=header&text=Hey%20👋%20I'm%20Monish!&fontSize=40&fontColor=ffffff" />
+</p>
+
+<!-- TYPING EFFECT -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9F5FFF&center=true&width=550&lines=AI+%26+Generative+AI+Developer;LLM+Agents+%7C+LangChain;Cloud+%7C+AWS+%7C+ML+Projects;Always+building+%7C+Always+learning">
+</p>
+
 ## About Me
 
 <p>

@@ -84,7 +84,7 @@ I am passionate about developing clean, maintainable code and building end-to-en
 - 🔹 **TURFEASE** – Sports Turf Booking Platform  
 - 🔹 **HIREHUB** – Hiring Management Platform  
 - 🔹 **FLEXIVERSE** – Intelligent Learning Platform  
-- 🔹 **Pickle E-commerce Website**  
+- 🔹 **WaaPickle E-commerce Website**  
 - 🔹 **Forever E-commerce Website**
 - 🔹 **DMS** – Document Managment System
 - 🔹 **AcademAI** – AI Learning Assistant Platform  

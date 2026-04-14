@@ -4,7 +4,7 @@
 
 <!-- TYPING EFFECT -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9F5FFF&center=true&width=550&lines=AI+%26+Generative+AI+Developer;LLM+Agents+%7C+LangChain;Cloud+%7C+AWS+%7C+ML+Projects;Always+building+%7C+Always+learning">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9F5FFF&center=true&width=550&lines=AI/ML+%26+Generative+AI+Developer;Full Stack Developer+%7C;Cloud+%7C+AWS+%7C+Data Analyst;Always+building+%7C+Always+learning">
 </p>
 
 ## About Me
